@@ -29,3 +29,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### Sneak Peak
+<p><a target="_blank" rel="noopener noreferrer" href="/nitin2038/React-Todo-App/tree/main/public/image.png"><img src="/nitin2038/React-Todo-App/tree/main/public/image.png" alt="GitHub Logo" style="max-width:100%;"></a></p>
