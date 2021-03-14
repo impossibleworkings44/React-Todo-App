@@ -8,8 +8,8 @@ In this application, I've used React components, React Hooks.
 Prerequisite : Node.js must be installed on the machine
 
 Clone the project
-In CLI write npm install
-In CLI write npm start
+1) In CLI write npm install
+2) In CLI write npm start
 
 ### `npm start`
 
